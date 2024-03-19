@@ -1,0 +1,13 @@
+[
+  {
+    "model": "pets_app.cat",
+    "pk": 1,
+    "fields": {
+      "breed": "short hair",
+      "age": 5,
+      "vaccinated": true,
+      "description": "brown tabby",
+      "name": "Natsu"
+    }
+  }
+]
